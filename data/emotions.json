@@ -1,0 +1,11 @@
+{
+  "emotion_to_mood": {
+    "happy": "energetic",
+    "surprise": "energetic",
+    "neutral": "calm",
+    "sad": "reflective",
+    "fear": "tense",
+    "angry": "intense",
+    "disgust": "intense"
+  }
+}

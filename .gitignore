@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+logs/
+data/history/*.json
+data/captures/*
+!data/history/.gitkeep
+!data/captures/.gitkeep
+models/*.h5
+models/*.keras
+models/*.pth
+**/.deepface/
+**/.keras/
+.vscode/settings.json
+*.tmp
