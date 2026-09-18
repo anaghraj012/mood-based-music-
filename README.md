@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This student-level Computer Vision project detects faces from an image or webcam, estimates facial emotion with DeepFace, maps the result to a broader mood, and recommends legally usable local music. Webcam mode automatically plays a recommended track when the smoothed mood changes. Image-mode playback is optional through `--play`. The project preserves the original local Pygame playback workflow while adding a testable CLI architecture.
+This Computer Vision project detects faces from an image or webcam, estimates facial emotion with DeepFace, maps the result to a broader mood, and recommends legally usable local music. Webcam mode automatically plays a recommended track when the smoothed mood changes. Image-mode playback is optional through `--play`. The project preserves the original local Pygame playback workflow while adding a testable CLI architecture.
 
 ## 2. Problem Statement
 
